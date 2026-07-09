@@ -1,18 +1,21 @@
-# 💫 Hi 👋, I'm Asif
+<h1 align="center">Hi 👋, I'm Asif</h1>
 
-### A Passionate Cloud Engineer || DevOps Engineer || Kafka Admin from Pakistan 🇵🇰
+<h3 align="center">🚀 Flutter & Frontend Developer from Pakistan</h3>
 
-📧 **Email Me:** ✉️ [codingmali9@gmail.com](mailto:codingmali9@gmail.com)
-For Collaboration, Projects, or Anything Else 😊😊
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Frontend+Developer;React+Developer;Always+Learning+New+Things" />
+</p>
 
-* 🔭 **I’m currently working on:** Cloud & DevOps Projects
-* 🌱 **I’m currently learning:** Kubernetes, Docker, AWS & Terraform
-* 👯 **I’m looking to collaborate on:** Open Source DevOps Projects
-* 🤔 **I’m looking for help with:** Advanced Cloud Infrastructure
-* 💬 **Ask me about:** DevOps, Cloud Computing, Kafka, Tech Support
-* 📫 **How to reach me:** [codingmali9@gmail.com](mailto:codingmali9@gmail.com)
-* 😄 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I Love Tech and Tech Loves Me 😄
+---
+
+## 👨‍💻 About Me
+
+- 🌱 I’m currently learning **React & Flutter**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Flutter**
+- 📫 Email: **codingmail9@gmail.com**
+- ⚡ Fun fact: I love coding ❤️
+
+---
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codingmali9@gmail.com) 
